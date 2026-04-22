@@ -62,7 +62,7 @@ pip install -r requirements.txt
 ### Run the notebook
 
 ```bash
-jupyter notebook Tredence_Case_Study.ipynb
+jupyter notebook Case_Study.ipynb
 ```
 
 CIFAR-10 will be downloaded automatically to `./data/` on first run.
@@ -73,7 +73,7 @@ CIFAR-10 will be downloaded automatically to `./data/` on first run.
 
 ```
 .
-├── Tredence_Case_Study.ipynb   # Main notebook
+├── Case_Study.ipynb   # Main notebook
 ├── requirements.txt            # Python dependencies
 ├── gate_distribution.png       # Output: gate value histogram (generated on run)
 ├── data/                       # CIFAR-10 dataset (auto-downloaded, git-ignored)

@@ -1,6 +1,6 @@
 # Self-Pruning Neural Network on CIFAR-10
 
-A PyTorch implementation of a learnable weight-pruning network trained on CIFAR-10, developed as part of a Tredence case study. The model uses **soft gate scores** to learn which weights to prune during training itself — no separate post-training pruning step required.
+A PyTorch implementation of a learnable weight-pruning network trained on CIFAR-10. The model uses **soft gate scores** to learn which weights to prune during training itself — no separate post-training pruning step required.
 
 ---
 

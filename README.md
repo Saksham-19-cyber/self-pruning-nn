@@ -42,7 +42,6 @@ Output (10 classes)
 | 5e-5                |       57.73       |       76.44        |
 | 2e-4                |       53.04       |       97.07        |
 
-> Fill in the table with your actual run results.
 
 ---
 

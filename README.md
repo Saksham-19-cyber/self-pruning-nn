@@ -73,11 +73,11 @@ CIFAR-10 will be downloaded automatically to `./data/` on first run.
 
 ```
 .
+├── .gitignore
 ├── Case_Study.ipynb   # Main notebook
-├── requirements.txt            # Python dependencies
-├── gate_distribution.png       # Output: gate value histogram (generated on run)
-├── .gitignore                      
-└── README.md
+├── README.md
+├── image.png          # Output: gate value histogram (generated on run)                      
+└── requirements.txt   # Python dependencies
 ```
 
 ---

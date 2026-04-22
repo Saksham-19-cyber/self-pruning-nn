@@ -38,9 +38,9 @@ Output (10 classes)
 
 | λ (sparsity weight) | Test Accuracy (%) | Sparsity Level (%) |
 |---------------------|-------------------|--------------------|
-| 1e-5                | ~XX.XX            | ~XX.XX             |
-| 5e-5                | ~XX.XX            | ~XX.XX             |
-| 2e-4                | ~XX.XX            | ~XX.XX             |
+| 1e-5                |       55.46       |       34.43        |
+| 5e-5                |       57.73       |       76.44        |
+| 2e-4                |       53.04       |       97.07        |
 
 > Fill in the table with your actual run results.
 

@@ -64,7 +64,6 @@ pip install -r requirements.txt
 jupyter notebook Case_Study.ipynb
 ```
 
-CIFAR-10 will be downloaded automatically to `./data/` on first run.
 
 ---
 

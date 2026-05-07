@@ -74,8 +74,9 @@ jupyter notebook Case_Study.ipynb
 ├── .gitignore
 ├── Case_Study.ipynb   # Main notebook
 ├── README.md
-├── image.png          # Output: gate value histogram (generated on run)                      
-└── requirements.txt   # Python dependencies
+├── image.png          # Output: gate value histogram (generated on run)
+├── requirements.txt   # Python dependencies                               
+└── Report.pdf
 ```
 
 ---
